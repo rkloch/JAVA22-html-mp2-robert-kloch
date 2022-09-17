@@ -1,0 +1,58 @@
+
+.navbar-margin{
+    margin-left: 20%;
+}
+body{
+    background-color: rgba(245, 245, 220, 0.575);
+    
+}
+img{
+    width: 300px;
+    height: 225.78;
+    object-fit: contain;
+}
+
+h1{
+    padding: 20px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+.card-container{
+    width: 100%;
+    padding: 0 16%;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    margin: 15px;
+    
+}
+.card-text{
+    background-color: rgba(245, 245, 220, 0.315);
+    padding: 5%;
+}
+
+footer{
+    background-color: azure;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+address{
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+}
+.img-fit{
+    width: 300px;
+    height: 225.78px;
+    object-fit: cover;
+}
